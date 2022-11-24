@@ -405,3 +405,24 @@ footer .control a { font-family: var(--f100);
         font-size: 24px;
     }
 }
+.our_chef{
+    color: #dedede;
+}
+.history_image {
+    height: 500px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.history_text {
+    color: #dedede;
+}
+.history_heading{
+    margin-bottom: 20px;
+    color: var(--green_75);
+}
+.history_card{
+    margin: 50px 0;
+
+}
