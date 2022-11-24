@@ -171,6 +171,9 @@ header {
 .header_about{
     background: url(../images/about_us_header.jpg) no-repeat center center /cover;
 }
+.header_contacts{
+    background: url(../images/contactss.jpg) no-repeat center center /cover;
+}
 .logo {
     padding: 8px 18px;
     background: var(--green-dark);
@@ -425,4 +428,8 @@ footer .control a { font-family: var(--f100);
 .history_card{
     margin: 50px 0;
 
+}
+.chertochka{
+    text-decoration: line-through;
+    color: red;
 }
